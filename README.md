@@ -1,6 +1,5 @@
-# blockchain
-
-## Simple Blockchain 
+# Simple Blockchain
+ 
 made using Flask
 
 
